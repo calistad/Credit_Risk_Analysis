@@ -2,11 +2,13 @@
 
 ## Overview
 
-In this project, we will resample the dataset, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
+To Predict Credit Risk with Supervised Machine Learning.
+
+We will resample the dataset, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
 ### Purpose
 
-To Predict Credit Risk
+Methods
 
 - Oversampling: RandomOverSampler Algorithm and SMOTE Algorithm
 
